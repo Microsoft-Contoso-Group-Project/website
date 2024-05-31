@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to Contoso Chat at Imperial College
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
