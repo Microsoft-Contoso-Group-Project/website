@@ -1,17 +1,30 @@
-# Welcome to Contoso Chat at Imperial College
+# Overview
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Objective
 
-## Commands
+This is an Imperial College (UK) Capstone project that is exploring the viability of using open-source models from [Hugging Face](https://huggingface.co) to reconstruct the signature [Contoso Chat](https://github.com/Azure-Samples/contoso-chat) retail copilot application from Microsoft. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Anticipated outcomes for the project:
+ - Contoso Chat AI sample (backend) using Hugging Face models
+ - Contoso Chat UI sample (frontend) extended with Multi-modal inputs
+ - Documentation & Feedback for self-guided exploration
 
-## Project layout
+## Overview
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![End to End LLMops Lifecycle](https://azure.github.io/Cloud-Native/assets/images/llm-app-lifecycle-6509347ca42b47d5c7ae425b890e5efe.png)
+
+## Team
+
+## Advisors
+
+## Projects
+
+| Repository name | Repo Size | Issues Closed | Issues Open | Commit Activity |
+| --- | --- | --- |--- |--- |
+| [`Contoso Chat`](https://github.com/Microsoft-Contoso-Group-Project/contoso-chat-backend) | [![Repo size](https://img.shields.io/github/repo-size/Microsoft-Contoso-Group-Project/contoso-chat-backend.svg?style=for-the-badge)](https://github.com/Microsoft-Contoso-Group-Project/contoso-chat-backend) | [![Issues Closed](https://img.shields.io/github/issues-closed/Microsoft-Contoso-Group-Project/contoso-chat-backend.svg?style=for-the-badge)](https://github.com/Microsoft-Contoso-Group-Project/contoso-chat-backend/forks) | [![Issues Open](https://img.shields.io/github/issues/Microsoft-Contoso-Group-Project/contoso-chat-backend.svg?style=for-the-badge)](https://github.com/Microsoft-Contoso-Group-Project/contoso-chat-backend/issues)  | [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Microsoft-Contoso-Group-Project/contoso-chat-backend.svg?style=for-the-badge)](https://github.com/Microsoft-Contoso-Group-Project/contoso-chat-backend/commits/main/) |
+| [`Contoso Web`](https://github.com/Microsoft-Contoso-Group-Project/contoso-web) | [![Repo size](https://img.shields.io/github/repo-size/Microsoft-Contoso-Group-Project/contoso-web.svg?style=for-the-badge)](https://github.com/Microsoft-Contoso-Group-Project/contoso-web) | [![Issues Closed](https://img.shields.io/github/issues-closed/Microsoft-Contoso-Group-Project/contoso-web.svg?style=for-the-badge)](https://github.com/Microsoft-Contoso-Group-Project/contoso-web/forks) | [![Issues Open](https://img.shields.io/github/issues/Microsoft-Contoso-Group-Project/contoso-web.svg?style=for-the-badge)](https://github.com/Microsoft-Contoso-Group-Project/contoso-web/issues)  | [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Microsoft-Contoso-Group-Project/contoso-web.svg?style=for-the-badge)](https://github.com/Microsoft-Contoso-Group-Project/contoso-web/commits/main/) |
+| | | | | |
+<br/>
+
+
+[![Hits](https://hits.sh/github.com/Microsoft-Contoso-Group-Project.svg?color=97ca00)](https://hits.sh/github.com/Microsoft-Contoso-Group-Project/) 
