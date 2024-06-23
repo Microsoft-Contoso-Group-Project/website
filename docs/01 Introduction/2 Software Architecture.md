@@ -15,26 +15,19 @@ Our software architecture for the Contoso Project integrates various technologie
    
 2. **Speech to Text Model**: If the prompt is in audio format, it is sent to a Whisper model on Hugging Face for transcription.
    
-3. **Chat Function**: 
-   Acts as the "brain" of Contoso Chat, serving as the interface between Hugging Face models and Azure services.
+3. **Chat Function**: Acts as the "brain" of Contoso Chat, serving as the interface between Hugging Face models and Azure services.
    
-4. **Embedding Model**: 
-   - Converts incoming queries into multidimensional vectors to aid in semantic search.
+4. **Embedding Model**: Converts incoming queries into multidimensional vectors to aid in semantic search.
 
-5. **Azure AI Search**: 
-   - Uses vectors produced by the embedding model to search for relevant and semantically similar documents from the database.
+5. **Azure AI Search**: Uses vectors produced by the embedding model to search for relevant and semantically similar documents from the database.
    
-6. **Cosmos DB**: 
-   - The database containing catalogues, product information, and customer data, which is queried and used to generate responses.
+6. **Cosmos DB**: The database containing catalogues, product information, and customer data, which is queried and used to generate responses.
 
-7. **Chat Completion Model**: 
-   - Combines vectorized prompts from the embedding model with knowledge from Azure AI Search to generate a chat response. This response is sent back to the user via API.
+7. **Chat Completion Model**: Combines vectorized prompts from the embedding model with knowledge from Azure AI Search to generate a chat response. This response is sent back to the user via API.
 
-8. **Text to Speech Model**: 
-   - Converts the chat response produced into an audio output using models like ElevenLabs.
+8. **Text to Speech Model**: Converts the chat response produced into an audio output using models like ElevenLabs.
 
-9. **Evaluation Model**: 
-   - Benchmarks the performance of the chat completion model by systematically testing it through detailed metrics.
+9. **Evaluation Model**: Benchmarks the performance of the chat completion model by systematically testing it through detailed metrics.
 
 
 ## Interaction Flow
