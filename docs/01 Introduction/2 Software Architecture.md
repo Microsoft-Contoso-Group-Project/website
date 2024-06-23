@@ -32,7 +32,7 @@ Our software architecture for the Contoso Project integrates various technologie
 
 ## Interaction Flow
 
-![Our Interaction Flow](/images/inter_flow.png)
+![Our Interaction Flow](https://microsoft-contoso-group-project.github.io/website/img/inter_flow.png)
 
 
 1. **User Prompt**: The user provides a prompt via the chat interface.

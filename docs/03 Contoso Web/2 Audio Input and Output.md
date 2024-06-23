@@ -23,7 +23,7 @@ As part of enhancing user interaction on the Contoso Outdoors site, we have inte
 
 ## Workflow
 
-![Workflow Diagram](/images/audio_workflow.png)
+![Workflow Diagram](https://microsoft-contoso-group-project.github.io/website/img/audio_workflow.png)
 
 ### Audio Input
 
