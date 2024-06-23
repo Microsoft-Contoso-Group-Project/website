@@ -1,4 +1,4 @@
-# Software Architecture
+# 2| Software Architecture
 
 Our software architecture for the Contoso Project integrates various technologies to deliver a robust and scalable chatbot application, including next.js, Python, Hugging Face, AI Studie, Prompt Flow, Azd CLI, Tailwind, AI search, and Cosmo DB. Below is an overview of the key components and their interactions within our system.
 
@@ -8,18 +8,15 @@ Our software architecture for the Contoso Project integrates various technologie
 
 ![Our Software Architecture](/images/SA_diagram.png)
 
----
 
 ## Key Components
 
-1. **Chat Interface**: 
-   - Accepts prompts from the retail website user in either text or audio format.
+1. **Chat Interface**: Accepts prompts from the retail website user in either text or audio format.
    
-2. **Speech to Text Model**: 
-   - If the prompt is in audio format, it is sent to a Whisper model on Hugging Face for transcription.
+2. **Speech to Text Model**: If the prompt is in audio format, it is sent to a Whisper model on Hugging Face for transcription.
    
 3. **Chat Function**: 
-   - Acts as the "brain" of Contoso Chat, serving as the interface between Hugging Face models and Azure services.
+   Acts as the "brain" of Contoso Chat, serving as the interface between Hugging Face models and Azure services.
    
 4. **Embedding Model**: 
    - Converts incoming queries into multidimensional vectors to aid in semantic search.
@@ -39,7 +36,6 @@ Our software architecture for the Contoso Project integrates various technologie
 9. **Evaluation Model**: 
    - Benchmarks the performance of the chat completion model by systematically testing it through detailed metrics.
 
----
 
 ## Interaction Flow
 
