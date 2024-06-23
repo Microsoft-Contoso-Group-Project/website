@@ -1,8 +1,12 @@
 # 2| Audio Input/Output Function
 
-## Introduction
-
 As part of enhancing user interaction on the Contoso Outdoors site, we have integrated audio input and output capabilities into the Contoso Chat. This feature allows users to interact with the chatbot using their voice, making the interaction more natural and accessible.
+
+---
+
+## Workflow
+
+![Workflow Diagram](https://microsoft-contoso-group-project.github.io/website/img/audio_workflow.png)
 
 ## Models Used
 
@@ -19,11 +23,6 @@ As part of enhancing user interaction on the Contoso Outdoors site, we have inte
 - **Features**:
   - Free use (up to 10,000 tokens)
   - Optimized LLM for real-time applications
-
-
-## Workflow
-
-![Workflow Diagram](https://microsoft-contoso-group-project.github.io/website/img/audio_workflow.png)
 
 ### Audio Input
 

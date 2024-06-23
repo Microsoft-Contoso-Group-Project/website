@@ -1,5 +1,9 @@
 # 1| Evaluation
 
+A thorough evaluation process is conducted for ChatGPT models as well as a number of free Hugging Face models to assess their performance in generating text responses. The detailed methodology and results of this evaluation are presented on this page.
+
+---
+
 ## Methodology
 
 Each of the models is evaluated based on four metrics: Coherence, Groundedness, Fluency, and Relevance. Our evaluation process involves the use of Python scripts that calculate a weighted sum score for each model and automatically select the best-fitting model.
@@ -39,4 +43,3 @@ Below are the spider graphs representing the evaluation metrics for the top mode
 
 <img src="https://microsoft-contoso-group-project.github.io/website/img/phi3.svg" alt="Spider Graph 3" width="500" height="300">
 
----

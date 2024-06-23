@@ -1,8 +1,8 @@
 # 1| Contoso Web Overview
 
-## Introduction
-
 Contoso Web is a showcase of the Contoso Chat integrated into a fake retail website, Contoso Outdoors. This integration demonstrates how advanced AI-driven customer support can enhance the user experience on e-commerce platforms.
+
+---
 
 ## Contoso Outdoors (Website)
 
