@@ -17,9 +17,12 @@ This project aims to explore the viability of using open-source models from [Hug
 
 ## Key Accomplishments
 
-- **Hugging Face Model Integration**: Builds a framework for integrating the Hugging Face platform’s vast library of AI models with Contoso Chat for text embedding, chat completion and evaluation tasks.
-- **Enhanced UI**: Introduces a new audio input/output feature to improve user accessibility.
-- **Model Recommendation**: Evaluates and compares the performances of popular Large Language Models on the chat completion task. Makes automatic model recommendation based on evaluation scores.
+- **Hugging Face Model Integration**:  
+Builds a framework for integrating the Hugging Face platform’s vast library of AI models with Contoso Chat for text embedding, chat completion and evaluation tasks.
+- **Enhanced UI**:  
+Introduces a new audio input/output feature to improve user accessibility.
+- **Model Recommendation**:  
+Evaluates and compares the performances of popular Large Language Models on the chat completion task. Makes automatic model recommendation based on evaluation scores.
 
 Our testing shows promising results in terms of AI accuracy and user satisfaction. The documentation provides detailed insights into the development process and our learnings.
 
@@ -27,9 +30,14 @@ Our testing shows promising results in terms of AI accuracy and user satisfactio
 
 We plan to enhance the project with several key developments:
 
-- **Add an Extra LLM Layer to Analyze Evaluation Results**: Implement an additional layer to process and interpret evaluation data, making the evaluation results more comprehensible for everyone.
-- **Create a System to Recommend Suitable Model Configuration**: Develop a recommendation system to suggest optimal model configurations based on specific use cases and requirements.
-- **Create a More Comprehensive Evaluation Method**: Design and implement more detailed and nuanced evaluation matrices to better assess model performance across various metrics and dimensions.
-- **Explore Different Methods of Deploying the Whisper Model to Reduce Latency**: Investigate and implement various deployment strategies for the Whisper model to minimize response times and improve user experience.
-- **Implement Multiple Language Support**: Extend the application to support multiple languages by using embeddings tailored to different linguistic contexts, making the tool accessible to a broader audience.
+- **Add an Extra LLM Layer to Analyze Evaluation Results**:  
+Implement an additional layer to process and interpret evaluation data, making the evaluation results more comprehensible for everyone.
+- **Create a System to Recommend Suitable Model Configuration**:  
+Develop a recommendation system to suggest optimal model configurations based on specific use cases and requirements.
+- **Create a More Comprehensive Evaluation Method**:  
+Design and implement more detailed and nuanced evaluation matrices to better assess model performance across various metrics and dimensions.
+- **Explore Different Methods of Deploying the Whisper Model to Reduce Latency**:  
+Investigate and implement various deployment strategies for the Whisper model to minimize response times and improve user experience.
+- **Implement Multiple Language Support**:  
+Extend the application to support multiple languages by using embeddings tailored to different linguistic contexts, making the tool accessible to a broader audience.
 

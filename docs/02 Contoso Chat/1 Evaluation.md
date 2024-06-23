@@ -18,8 +18,10 @@ The system returns a dynamic HTML page that the developer can interact with to v
 
 ## Results
 
-- **Paid vs. Free Models**: Free models do not perform as well as the paid ChatGPT 3.5, which scores high in each of the four metrics. However, each free model has its own strength (e.g., groundedness for meta_llama3 and fluency for phi_3).
-- **Flexibility**: Companies can easily switch between different free models based on the features they prioritize.
+- **Paid vs. Free Models**:  
+Free models do not perform as well as the paid ChatGPT 3.5, which scores high in each of the four metrics. However, each free model has its own strength (e.g., groundedness for meta_llama3 and fluency for phi_3).
+- **Flexibility**:  
+Companies can easily switch between different free models based on the features they prioritize.
 
 ### Model Performance Comparison
 
@@ -35,6 +37,6 @@ Below are the spider graphs representing the evaluation metrics for the top mode
 
 #### Graph 3: Model Phi_3_mini_4k_instruct with different model configurations
 
-![Spider Graph 3](https://microsoft-contoso-group-project.github.io/website/img/phi3.svg)
+<img src="https://microsoft-contoso-group-project.github.io/website/img/phi3.svg" alt="Spider Graph 3" width="500" height="300">
 
 ---
