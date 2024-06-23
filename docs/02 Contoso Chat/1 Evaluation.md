@@ -29,11 +29,11 @@ Below are the spider graphs representing the evaluation metrics for the top mode
 
 #### Graph 1: Top 4 Models Evaluation Results
 
-![Spider Graph 1](https://microsoft-contoso-group-project.github.io/website/img/top4.svg)
+<img src="https://microsoft-contoso-group-project.github.io/website/img/top4.svg" alt="Spider Graph 3" width="500" height="300">
 
 #### Graph 2: Model meta_llama3_instruct_70B with different model configurations
 
-![Spider Graph 2](https://microsoft-contoso-group-project.github.io/website/img/meta_llama.svg)
+<img src="https://microsoft-contoso-group-project.github.io/website/img/meta_llama.svg" alt="Spider Graph 3" width="500" height="300">
 
 #### Graph 3: Model Phi_3_mini_4k_instruct with different model configurations
 
