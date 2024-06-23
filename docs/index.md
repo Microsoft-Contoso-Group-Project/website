@@ -1,21 +1,15 @@
-# Overview
+# Welcome to the Contoso Chat Project
 
-## Objective
+Welcome to the documentation site for the Contoso Chat project. This initiative is a collaborative effort by students at Imperial College London to reconstruct Microsoft's [Contoso Chat](https://github.com/Azure-Samples/contoso-chat) retail copilot application open-source AI models from [Hugging Face](https://huggingface.co). Here, you'll find comprehensive information about our project, including technical details, progress updates, and insights from our journey.
 
-This is an Imperial College (UK) Capstone project that is exploring the viability of using open-source models from [Hugging Face](https://huggingface.co) to reconstruct the signature [Contoso Chat](https://github.com/Azure-Samples/contoso-chat) retail copilot application from Microsoft. 
-
-Anticipated outcomes for the project:
- - Contoso Chat AI sample (backend) using Hugging Face models
- - Contoso Chat UI sample (frontend) extended with Multi-modal inputs
- - Documentation & Feedback for self-guided exploration
-
-## Overview
-
-![End to End LLMops Lifecycle](https://azure.github.io/Cloud-Native/assets/images/llm-app-lifecycle-6509347ca42b47d5c7ae425b890e5efe.png)
 
 ## Team
+Team members: Yiru Chen, Zachary Elliott, Pinqian Jin, Alex Saul, Sebastian Tan, Jim Zhu
 
 ## Advisors
+Lee Stott - Microsoft Principal Cloud Advocate
+Nitya Narasimhan - Microsoft Senior Cloud Advocate
+Sonali Parbhoo - Imperial College London Lecturer
 
 ## Projects
 
