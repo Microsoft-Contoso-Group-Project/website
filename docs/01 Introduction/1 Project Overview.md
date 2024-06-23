@@ -4,9 +4,12 @@
 
 Nowadays, businesses starts to make use of Generative AI for chatbot applications to enhance users' online shopping experience. However, many face three huge challenges:
 
-- **Costs**: Deploying proprietary AI models, such as those from OpenAI on Azure, can be prohibitively expensive. Our tests indicate that maintaining these models can cost around $10 per day, which would quickly add up when the business scale increases. 
-- **Integration**: Different models are required for embedding, chat completion, and evaluation. Choosing the right model combination and ensuring they work seamlessly together can be complex and time-consuming.
-- **Accessibility**: There's a need to cater to a diverse user base, ensuring that AI-driven solutions are accessible and usable for everyone, including those who have difficulty reading or writing.
+- **Costs**:  
+Deploying proprietary AI models, such as those from OpenAI on Azure, can be prohibitively expensive. Our tests indicate that maintaining these models can cost around $10 per day, which would quickly add up when the business scale increases. 
+- **Integration**:  
+Different models are required for embedding, chat completion, and evaluation. Choosing the right model combination and ensuring they work seamlessly together can be complex and time-consuming.
+- **Accessibility**:  
+There's a need to cater to a diverse user base, ensuring that AI-driven solutions are accessible and usable for everyone, including those who have difficulty reading or writing.
 
 ## Objective
 

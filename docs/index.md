@@ -7,9 +7,9 @@ Welcome to the documentation site for the Contoso Chat project. This initiative 
 Team members: Yiru Chen, Zachary Elliott, Pinqian Jin, Alex Saul, Sebastian Tan, Jim Zhu
 
 ## Advisors
-Lee Stott - Microsoft Principal Cloud Advocate
-Nitya Narasimhan - Microsoft Senior Cloud Advocate
-Sonali Parbhoo - Imperial College London Lecturer
+Lee Stott - Microsoft Principal Cloud Advocate  
+Nitya Narasimhan - Microsoft Senior Cloud Advocate  
+Sonali Parbhoo - Imperial College London Lecturer  
 
 ## Projects
 
