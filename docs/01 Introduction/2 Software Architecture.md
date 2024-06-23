@@ -6,7 +6,7 @@ Our software architecture for the Contoso Project integrates various technologie
 
 ## System Overview
 
-![Our Software Architecture](/images/SA_diagram.png)
+![Our Software Architecture](/img/SA_diagram.png)
 
 
 ## Key Components
