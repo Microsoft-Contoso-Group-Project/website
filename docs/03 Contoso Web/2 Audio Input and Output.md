@@ -8,22 +8,6 @@ As part of enhancing user interaction on the Contoso Outdoors site, we have inte
 
 ![Workflow Diagram](https://microsoft-contoso-group-project.github.io/website/img/audio_workflow.png)
 
-## Models Used
-
-### Speech-to-Text Model
-- **Model**: Whisper-large-v3
-- **Latency**: 11583ms
-- **Features**:
-  - Free use via Hugging Face Inference API
-  - Multi-language support
-
-### Text-to-Speech Model
-- **Model**: 11-Labs Turbo V2
-- **Latency**: 457ms
-- **Features**:
-  - Free use (up to 10,000 tokens)
-  - Optimized LLM for real-time applications
-
 ### Audio Input
 
 1. **Start**: User initiates interaction by pressing the microphone button.
@@ -42,6 +26,22 @@ As part of enhancing user interaction on the Contoso Outdoors site, we have inte
 1. **Text Response**: The text response is converted to speech using the 11-Labs Turbo V2 model.
 2. **Playback**: The audio file is returned to the chat interface and read out to the user.
 
+
+## Models Used
+
+### Speech-to-Text Model
+- **Model**: Whisper-large-v3
+- **Latency**: 11583ms
+- **Features**:
+  - Free use via Hugging Face Inference API
+  - Multi-language support
+
+### Text-to-Speech Model
+- **Model**: 11-Labs Turbo V2
+- **Latency**: 457ms
+- **Features**:
+  - Free use (up to 10,000 tokens)
+  - Optimized LLM for real-time applications
 
 ## Benefits
 
